@@ -1,7 +1,7 @@
 Cashxpress Nigeria Limited Privacy Notice
 
 1. Introduction
-This Privacy Notice (”Notice”) outlines your use of our Website and App: https://cashx.ng/ (”the Website URL”) and your rights concerning our collection, use, storage, and protection of your personal data when you visit, access, browse, and/or use our Website or App. Your privacy is important to us.
+This Privacy Notice (”Notice”) outlines your use of our App and your rights concerning our collection, use, storage, and protection of your personal data when you visit, access, browse, and/or use our Website or App. Your privacy is important to us.
 
 Please note that this Notice does not apply to any products, services, websites, or content offered by third parties that have their own privacy notices. Additionally, it does not apply to job applicants, candidates applying for employment, or employees and non-employee workers whose personal data is subject to different privacy notices. Such individuals will receive specific privacy notices in the context of their employment or working relationship with us.
 
@@ -10,7 +10,7 @@ Personal data means any information about an individual from which that person c
 
 In connection with our services, we collect personal and financial information from you while you use our products, services, and websites. We may ask you to provide us with certain personal data directly to contact or identify you, and some automatically for our Website to function effectively.
 
-When you use our application, we collect and synchronize certain information with your prior consent. We require your permission to collect data to understand your identity better and correctly assess your creditworthiness. Your information will be securely encrypted and transferred to our server (https://api.cashx.ng/). We will not share the collected data with third parties without your consent, except as otherwise provided herein.
+When you use our application, we collect and synchronize certain information with your prior consent. We require your permission to collect data to understand your identity better and correctly assess your creditworthiness. Your information will be securely encrypted and transferred to our server. We will not share the collected data with third parties without your consent, except as otherwise provided herein.
 
 (a) Collection of SMS data
 Purpose of the permission: Our app needs access to your SMS data as it is an important component for one of the stages of the credit assessment. As part of our customer assessment, this access will help us identify your bank accounts, analyze your cash flows, and review transaction amounts. This information also allows us to detect, prevent and combat fraud, including attempted money laundering or any other illegal activity that may be related to the services we provide. You are not obliged to provide access to SMS information, you have the choice to approve or decline it. However, if you decline, you may not be able to use all the features of the app. Also, we may not be able to accurately assess your risk profile and creditworthiness.
@@ -19,23 +19,23 @@ Type of Data Collection: We exclusively monitor SMS within the Customer’s inbo
 
 Security of Data:
 
-We use the HTTPS protocol to encrypt and transmit your SMS information to our server (https://api.cashx.ng/). The data we collect is not shared with third parties without your permission.
+We use the HTTPS protocol to encrypt and transmit your SMS information to our server. The data we collect is not shared with third parties without your permission.
 (b) Collection of Call Data
 We request access to your call log to enhance our fraud detection measures and improve customer support. This data helps us verify account ownership by cross-referencing contact details and call history. Additionally, it assists in identifying unusual account activity, such as multiple login attempts or suspicious transactions, ensuring the security of your transactions and account information. We handle this information with the highest standards of confidentiality and encryption for privacy and data security. We don’t require access to your call log but encourage its use for enhanced security and functionality. Declining this permission may limit app features and our ability to monitor account security effectively.
 
 Type of Data Collection: We exclusively monitor call logs to discern various account activities and enhance fraud detection measures. Our data collection and processing encompass telephone data, including call history logs.
 
-Security of Data: We utilize the HTTPS protocol to encrypt and securely transmit your call log data to our server at https://api.cashx.ng/. Your call log information is treated with the utmost confidentiality and is never shared with third parties unless we have obtained your explicit consent.
+Security of Data: We utilize the HTTPS protocol to encrypt and securely transmit your call log data to our server. Your call log information is treated with the utmost confidentiality and is never shared with third parties unless we have obtained your explicit consent.
 
 (c) Collection of Location Information
 We collect data about your geographic location to assess customer risk
-We upload location data to our highly secure CashX server (https://api.cashx.ng/)
+We upload location data to our highly secure CashX server
 Security of Data: You will be notified by your device’s operating system when the Application attempts to collect information about your geographic location. Attention: If you do not allow the Application to collect information about your geographic location, you will not be able to access all the functions of the Application and you will not be able to use them
 
 (d) Collection of Phone Device Information
 We may gather certain device information, including hardware details (such as the operating system, Android version, IMEI number, IMSI number, MAC address, serial number, Android ID, screen size, and other hardware specifics), and serial number to uniquely identify the device. This helps us ensure that unauthorized devices are not used for fraudulent activities on your behalf.
 
-The collected data will be securely uploaded to the CashX server (https://api.cashx.ng/) with high-level protection measures in place.
+The collected data will be securely uploaded to the CashX server with high-level protection measures in place.
 
 Personal data that we collect when a client interacts with our service includes:
 
@@ -120,7 +120,7 @@ where feasible, receive all personal data you have provided to us —in a struct
 request the erasure of your data (also known as the right to be forgotten);
 withdraw your consent to the processing of your personal data; and
 lodge a complaint with a relevant authority, where you have reason to believe that we have violated the term(s) of this Privacy Notice. (You may complain or seek redress from us within 30 (thirty) days from when you first detected the alleged violation.)
-You may seek to exercise any of the above rights at any time by emailing us at dpo@cashx.ng.
+You may seek to exercise any of the above rights at any time by emailing us at dpo@.ng.
 
 The supervisory authority is the Nigerian Data Protection Commission (“NDPC”), and you can send your complaint via email to info@ndpc.gov.ng.
 
@@ -148,14 +148,14 @@ Legal and Regulatory Authorities
 
 We may disclose your information if we believe it is reasonably necessary to comply with a law, regulation, order, subpoena, or audit, or to protect any person’s safety, or to address fraud, security, or technical issues.
 
-Note that if you wish to prevent your device’s operating system from sharing your Personal Data with CashXpress or with the third parties mentioned for profiling purposes, you can do so by setting up your device appropriately. This involves changing the privacy settings on your device to disable or restrict any advertising tracking features. For more information on how to do this, please see the following links:
+Note that if you wish to prevent your device’s operating system from sharing your Personal Data with press or with the third parties mentioned for profiling purposes, you can do so by setting up your device appropriately. This involves changing the privacy settings on your device to disable or restrict any advertising tracking features. For more information on how to do this, please see the following links:
 
 iOS Devices: https://support.apple.com/en-us/HT202074;
 
 Android Devices: https://support.google.com/ads/answer/2662922?hl=en.
 
 8. How long do we keep your data
-The personal data we process will be stored for as long as necessary to fulfill the purposes described in this Notice. However, we will also retain data subject to relevant provisions of applicable laws, resolve disputes, prevent fraud and abuse, and enforce our legal agreements and policies. In addition, we delete your data for targeted marketing purposes once you unsubscribe from our marketing communications or withdraw consent by clicking the “unsubscribe button” or sending an email to dpo@cashx.ng.
+The personal data we process will be stored for as long as necessary to fulfill the purposes described in this Notice. However, we will also retain data subject to relevant provisions of applicable laws, resolve disputes, prevent fraud and abuse, and enforce our legal agreements and policies. In addition, we delete your data for targeted marketing purposes once you unsubscribe from our marketing communications or withdraw consent by clicking the “unsubscribe button” or sending an email to dpo@.ng.
 
 Please note that your data may be retained for a longer period, notwithstanding your request to delete it, where there is a legal requirement to do so. However, we utilize this information to enhance and customize our service. It may be uploaded to our servers or stored on your device. If you nominate someone as your guarantor, you confirm that you have their approval to process their data (name and contact details) for this loan facility.
 
